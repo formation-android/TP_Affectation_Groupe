@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Formation_TP1</string>
+    <string-array name="filiere" >
+        <item>TDI</item>
+        <item>TDM</item>
+        <item>TRI</item>
+    </string-array>
+</resources>
